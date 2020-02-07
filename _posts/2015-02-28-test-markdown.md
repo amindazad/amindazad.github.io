@@ -8,8 +8,6 @@ tags: [Project]
 comments: true
 ---
 
-**Here is some bold text**
-
 Since the great depression democrats and republicans have disagreed on tax policy in almost every election and as we approach the 2020 presidential election candidates in both state and federal level have proposed over 300 tax policy proposals on both sides of political spectrum. Tax plans say a lot about candidates’ policy goals, how they view the role of government and how they plan to accomplish their goals. But, what’s the purpose of taxation and why it’s important that everyone pays their fair share ?
 U.S. Department of Treasury describes the main purpose of taxes is to be used for public investment, the production of public goods and to improve social welfare by redistributing income in the entire population. To simplify it, we pay taxes so the government could have enough resources to ensure our safety and well being.
 Two main political parties in the United States have a different interpretation of taxation and its effectiveness to deliver safety and wellbeing to the society.The democrats argue for effectiveness of taxation in enabling the federal government to improve social safety nets and it turn increase life standards all across the board by raising tax rates, and the republicans side with trickle down economics in which small government would improve society’s well being by cutting taxes and regulations, and in turn providing more wealth and economic freedom to the masses.
