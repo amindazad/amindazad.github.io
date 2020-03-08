@@ -66,12 +66,12 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: false
+# rss: false
   email: "amindazad@gmail.com"
-  linkedin: https://www.linkedin.com/in/amindazad/
-  github: https://github.com/amindazad
-  twitter: https://twitter.com/AminxAzad
-  facebook: https://facebook.com/amin.dehghan
+  linkedin: amindazad
+  github: amindazad
+  twitter: AminxAzad
+  facebook: amin.dehghan
 #  reddit: yourname
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
