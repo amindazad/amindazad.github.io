@@ -1,12 +1,7 @@
 ---
-layout: post
 title: Happiness, Life Expectancy, Income Inequality and Your Tax Dollars
 subtitle: What can we learn from data about the tax income relationship with happiness, life expectancy and income inequality among democratic market driven economies.
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [Project]
-comments: true
----
+--- 
 
 Since the great depression democrats and republicans have disagreed on tax policy in almost every election and as we approach the 2020 presidential election candidates in both state and federal level have proposed over 300 tax policy proposals on both sides of political spectrum. Tax plans say a lot about candidates’ policy goals, how they view the role of government and how they plan to accomplish their goals. But, what’s the purpose of taxation and why it’s important that everyone pays their fair share ?
 U.S. Department of Treasury describes the main purpose of taxes is to be used for public investment, the production of public goods and to improve social welfare by redistributing income in the entire population. To simplify it, we pay taxes so the government could have enough resources to ensure our safety and well being.
