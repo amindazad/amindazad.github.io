@@ -1,6 +1,7 @@
 ---
 title: Happiness, Life Expectancy, Income Inequality and Your Tax Dollars
 subtitle: What can we learn from data about the tax income relationship with happiness, life expectancy and income inequality among democratic market driven economies.
+image: https://quaderno.io/blog/wp-content/uploads/2016/06/Digital-Taxes-Around-The-World-1280-720.png
 --- 
 
 Since the great depression democrats and republicans have disagreed on tax policy in almost every election and as we approach the 2020 presidential election candidates in both state and federal level have proposed over 300 tax policy proposals on both sides of political spectrum. Tax plans say a lot about candidates’ policy goals, how they view the role of government and how they plan to accomplish their goals. But, what’s the purpose of taxation and why it’s important that everyone pays their fair share ?
